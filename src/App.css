@@ -1,0 +1,23 @@
+.container {
+  background-color: #15191F;
+  color: white;
+  padding: 30px;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: #242b33;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+  width: 300px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  flex-wrap:wrap;
+  justify-content: center;
+}

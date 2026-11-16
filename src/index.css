@@ -1,0 +1,19 @@
+:root {
+  front-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  background-color: #15191f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 32opx;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
